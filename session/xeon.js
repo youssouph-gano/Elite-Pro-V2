@@ -1,3 +1,3 @@
 {
-	"name"; "Elite-Pro-V2 Bot Multi Device "
+	"DESTRUCTRICE"; "Elite-Pro-V2 Bot Multi Device "
 }
