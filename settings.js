@@ -6,14 +6,14 @@ const chalk = require('chalk')
 global.sessionid ='put your session id here'
 
 //owmner v card
-global.ytname = "DESTRUCTRICE" //ur yt chanel name
+global.ytname = "No~man" //ur yt chanel name
 global.socialm = "GitHub: Elite-MD" //ur github or insta name
 global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
-global.botname = 'G_DESTRUCTION' //ur bot name
-global.ownernumber = '221768217748' //ur owner number
-global.ownername = 'DESTRUCTRICE' //ur owner name
+global.botname = 'No~man' //ur bot name
+global.ownernumber = '254741976953' //ur owner number
+global.ownername = 'No~man' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
 global.themeemoji = '👨🏼‍💻'
